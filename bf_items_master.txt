@@ -1,0 +1,779 @@
+===== Weapon =====
+0000020A04544F4A | Common Flintlock Pistols  [CRASH]
+0000020A045C1D23 | Officer Smallsword  [CRASH]
+0000020A045C9DE9 | Officer Smallsword  [CRASH]
+0000021149B3B5DD | British Cutlasses
+0000021149B3B5E9 | French Dress Swords
+0000021149B3B5F5 | Dual Cleavers
+0000021149B3B601 | Alta
+0000021149B3B60D | Aveline's Machete
+0000021149B3B619 | Scottish Broadsword
+0000021149B3B625 | British Colonial Cutlasses
+0000021149B3B631 | Privateer's Cutlasses
+0000021149B3B63D | Captain Drake's Swords
+0000021149B41AB6 | Matched Golden Swords
+0000021149B41AC2 | Spanish Cup-hilt Rapiers
+0000021149B41ACE | Officer's Rapiers
+0000021149B41ADA | Pistol Swords
+0000021149B41AE6 | Pirate Scimitars
+0000021149B41AFE | German Rapiers
+0000021149B41B0A | French Court Swords
+0000021149B41B16 | Espada Ancha
+0000021149B6EF87 | The Blades of Toledo
+0000021149B6EF9F | Edward Kenway's Unique Swords
+0000021149B6EFAB | Persian Scimitars
+0000021149B6EFB7 | Ezio's Swords
+0000021149B79683 | Common Flintlock Pistols
+0000021149B7968F | Standard Wheellock Pistols
+0000021149B7969B | Standard Wheellock Pistols
+0000021149B796B3 | Spanish Officer Pistols
+0000021149B796D7 | Golden Flintlock Pistols
+0000021149B796E3 | Golden Flintlock Pistols
+0000021149B796EF | Captain's Wheellock Pistols
+0000021149B796FB | Captain's Wheellock Pistols
+0000021149B79707 | Captain Morgan's Pistols
+0000021149B79713 | Captain Morgan's Pistols
+0000021149B7971F | Captain Drake's Flintlocks
+0000021149B79737 | Cannon-Barrel Pistols
+0000021149B79743 | Cannon-Barrel Pistols
+0000021149B7974F | Pirate Blunderbusses
+0000021149B7975B | Pirate Blunderbusses
+00000216950A1D53 | Officer Smallsword  [CRASH]
+00000217831A6A25 | Blow Pipe - Sleep  [CRASH]
+00000217831A8221 | Blow Pipe - Berserk  [CRASH]
+00000218FC98B5A6 | Swivel Gun  [CRASH]
+0000021BD619FDCB | Common Flintlock Pistols  [CRASH]
+0000021E19382AE3 | Rope Dart  [CRASH]
+0000021EC0964713 | Iconic Swords
+0000021EC09648E6 | Iconic Pistols
+0000022060921AEC | Blow Pipe  [CRASH]
+00000223D73EDEBC | Common Flintlock Pistols  [CRASH]
+000002317C960BEF | Ferraro's Rapiers
+000002317C973C70 | Officer Smallsword  [CRASH]
+000002317C9E4242 | New Pistol Swords 1
+000002317C9E4286 | New Pistol Swords 2
+000002317C9E428A | Ultimate Swords
+000002317C9E428E | Serpent's Fang Cutlasses
+000002317C9E4292 | Blades of the Damned
+000002317C9E4296 | Dragon's Fang Swords
+000002317C9E429A | Lightsavers Blades
+000002317C9E429E | Blackbeard's Swords
+000002317C9E42A2 | Animus Pistol Swords
+000002317C9E42A6 | Standalone Swords 2
+000002317C9E42AA | Standalone Swords 3
+000002317C9EDF52 | Baldwin's Golden Pistols
+000002317C9EDF56 | New Pistol
+000002317C9EDF5A | Fury of the Deep Pistols
+000002317C9EDF5E | Diabolist's Pistols
+000002317C9EDF62 | Dragon's Roar Pistols
+000002317C9EDF66 | Darkworker's Pistols
+000002317C9EDF6A | Blackbeard's Pistol
+000002317C9EDF6E | Animus Pistol
+000002317C9EDF72 | Standalone Pistol 2
+000002317C9EDF76 | Standalone Pistol 3
+000002386A391F33 | Blow Pipe - Berserk  [CRASH]
+0000023B14A63004 | Common Flintlock Pistols  [CRASH]
+0000023B9C1E2DB7 | Standard Wheellock Pistols
+0000023C45D8B58B | Officer's Rapiers
+0000024681355880 | Keris
+000002468D34C367 | Common Flintlock Pistols  [CRASH]
+000002468D34C374 | Common Flintlock Pistols  [CRASH]
+000002468D3C2262 | Common Flintlock Pistols  [CRASH]
+===== Ship Weapon/Upgrade =====
+00000219449D57C4 | Mortar Ammo
+00000219449D57D9 | Barrel
+000002239DD47A43 | Siege Mortar
+000002317C97C490 | 8-Pounders (alternate front weapon)
+000002317C97C4B0 | Demi Culverins (alternate broadside weapon)
+000002317C97C510 | Cluster Barrels
+000002156C6E51F3 | Mortar (ship weapon)
+000002156C6E9082 | Rear Battery L1
+000002156C6E908A | Naval cannon (internal weapon object)
+00000216ED02CEB3 | Rear Battery (default)
+00000218FC98AC2B | Broadside Cannons (ship weapon)
+00000218FC98AC38 | Chase Cannons (ship weapon)
+00000218FC98AC45 | Mortar (ship weapon, ultimate tier)
+00000218FC98AC88 | Broadside Cannons L0 (default)
+00000218FC98AC90 | Fire Barrel Strength L0 (default)
+00000218FC98AC98 | Mortars L0 (default)
+00000220F0527B10 | Broadside Cannons L1
+00000220F0527B18 | Broadside Cannons L2
+00000220F0527B20 | Broadside Cannons L3
+00000220F0527B28 | Broadside Cannons L4
+00000220F0527B30 | Broadside Cannons L5
+00000220F0527B38 | Broadside Cannons Ultimate
+00000220F0527DEC | Round Shot Strength L0 (default)
+00000220F0527DF4 | Round Shot Strength L1
+00000220F0527DFC | Round Shot Strength L2
+00000220F0527E04 | Round Shot Strength L3
+00000220F0527E0C | Round Shot Strength Ultimate
+00000220F0527E14 | Heavy Shot Strength L0
+00000220F0527E1C | Heavy Shot Strength L1
+00000220F0527E24 | Heavy Shot Strength Ultimate
+00000220F0527E2C | Chain Shot L0 (default)
+00000220F0527E34 | Chain Shot L1
+00000220F0527E3C | Chain Shot L2
+00000220F0527E44 | Swivel Guns L0 (default)
+00000220F0527E4C | Swivel Guns L1
+00000220F0527E54 | Swivel Guns L2
+00000220F0527E5C | Swivel Guns Ultimate
+00000220F0527E64 | Mortars L1
+00000220F0527E6C | Mortars L2
+00000220F0527E74 | Mortars Ultimate
+00000220F0527EFE | Fire Barrel Strength L1
+00000220F0527F06 | Fire Barrel Strength Ultimate
+00000220F05281B2 | Hull Armor L0 (default)
+00000220F05281BA | Hull Armor L1
+00000220F05281C2 | Hull Armor L2
+00000220F05281CA | Hull Armor L3
+00000220F05281D2 | Hull Armor Ultimate
+00000220F05281DA | Heavy Shot Storage L0 (default)
+00000220F05281E2 | Heavy Shot Storage L1
+00000220F05281EA | Heavy Shot Storage L2
+00000220F05281F2 | Heavy Shot Storage L3
+00000220F05281FA | Mortar Storage L0 (default)
+00000220F052820A | Mortar Storage L1
+00000220F0528212 | Mortar Storage Ultimate
+00000220F052821A | Crew Hammocks L0 (default)
+00000220F0528222 | Fire Barrel Storage L1
+00000220F052822A | Fire Barrel Storage L2
+00000220F0528232 | Fire Barrel Storage Ultimate
+00000220F052C35E | Crew Hammocks L1
+00000220F052C366 | Crew Hammocks L2
+00000220F052C38E | Harpoon Strength L0 (default)
+00000220F052C396 | Harpoon Strength L1
+00000220F052C39E | Harpoon Strength Ultimate
+00000220F052C3A6 | Sails Upgrade L0 (default)
+00000220F052C3AE | Sails Upgrade L1
+00000220F052C3B6 | Sails Upgrade L2
+00000220F052C3BE | Harpoon Storage L0 (default)
+00000220F052C3C6 | Harpoon Storage L1
+00000220F052C3CE | Harpoon Storage L2
+00000220F052C3D6 | Fire Barrel Storage L0 (default)
+00000220F052C3DE | Ram L0
+00000220F052C3E6 | Ram L1
+00000220F052C3EE | Ram L2
+00000220F052C3F6 | Ram Ultimate
+000002239DD47D1F | Broadside Cannons (ship weapon, variant)
+0000022E98294422 | Mortars (default, Jackdaw loadout)
+0000022EF8C1C2B2 | Heavy Shot Strength L0 (default)
+000002317C97C4D8 | Dead Man's Cohort
+000002317C97C4F4 | Shrapnel Barrel
+000002374D5F69CC | Ram L0 (default)
+===== Blueprint/Upgrade =====
+00000219449E7A83 | Broadside Cannons Number ultimate plan
+00000219449EB68D | Round Shot Strength ultimate plan
+00000219449EB6AD | Heavy Shot Strength ultimate plan
+00000219449EB6CD | Swivel Guns ultimate plan
+00000219449EB6ED | Fire Barrel Strength ultimate plan
+00000219449EB70D | Mortars Ultimate Plan
+00000219449EB72D | Ram ultimate plan
+00000219449EB74D | Hull Armor ultimate plan
+00000219449EB76D | Heavy Shot Storage ultimate plan
+00000219449EB78D | Mortar Storage ultimate plan
+00000219449EB7AD | Fire Barrel Storage ultimate Plan
+00000219449EB7CD | Harpoon Strength ultimate plan
+00000220F0528202 | Rear Battery L0
+000002317C9D0C1F | Blackwood Wheel Design Plan
+000002317C9D0C84 | The Aquila's Wheel Design Plan
+00000257414740F8 | Ivory Wheel Design Plan
+000002574147581C | Gilded Hull Design Plan
+===== Outfit =====
+00000211BAE7BFCE | Walpole outfit
+00000211BAE7BFD5 | Simple Sailor outfit
+00000219449F2B9F | Brown Cloak
+00000219449F2BB3 | Pirate Cloak
+00000219449F2BC7 | Crimson Cloak
+00000219449F2BDB | Privateer Outfit
+00000219449F2BEF | Pirate Captain Outfit
+00000219449F2C03 | Merchant Outfit
+00000219449F2C17 | Politician's Outfit
+00000219449F2C2B | Governer's Outfit
+00000219449F2C3F | Explorer Outfit
+00000219449F2C53 | Officer's Outfit
+00000219449F2C67 | Stealth Outfit
+00000219449F2C7B | Mayan Outfit
+00000219449F2C8F | Edward the Legend Outfit
+00000219449F2CA3 | Hunter Outfit
+00000219449F2CB7 | Feline Pelt Outfit
+00000219449F2CCB | Shark-Hunter Outfit
+00000219449F2CDF | Whaler Outfit
+00000219449F2CF3 | Haytham Kenway's Overcoat
+00000219449F2D07 | Captain Morgan's Redingote
+00000219449F2D1B | Stede Bonnet's Attire
+00000219449F2D2F | Captain Drake's Outfit
+00000219449F2D43 | Altair Ibn-La'Ahad's Robes
+00000219449F2D57 | Ezio Auditore's Robes
+00000219449F2D6B | Connor's Outfit
+00000219449F2D7F | Animal Spirit Outfit
+00000219449F2D93 | Aguilar's Outfit
+00000219449F2DA7 | Alexios' Outfit
+00000219449F2DBB | Arno Dorian's Outfit
+00000219449F2DCF | Bayek's Outfit
+00000219449F2DE3 | Jacob Frye's Outfit
+00000219449F2DF7 | Shay Cormac's Outfit
+00000219449F2E0B | Captain Kidd's Outfit
+00000220F056C272 | Default Crew Costume
+00000220F056C279 | Alternate Crew Costume
+00000220F785DDCA | Ferraro outfit
+000002317C952CA0 | British Silver Teapot
+000002317C969E9B | Edward Shirtless
+000002317C9720A7 | Walpole outfit
+000002317C9DEEDC | Standalone Crew Costume
+000002317C9DEEE0 | Deceased Crew Costume
+000002317C9DEEE4 | New Crew Costume 1
+000002317C9DEEE8 | New Crew Costume 2
+000002317C9DEEEC | New Crew Costume 3
+000002317C9DEF14 | Animus Crew Costume
+000002317C9EC039 | New Outfit
+000002317C9EC03D | Ultimate Outfit
+000002317C9EC041 | Stormfury Shroud
+000002317C9EC045 | Hellion Armor
+000002317C9EC049 | Dragonscale Armor
+000002317C9EC04D | Master Assassin Robes
+000002317C9EC051 | Blackbeard's Outfit
+000002317C9EC055 | Animus Outfit
+000002317C9EC059 | Standalone Outfit 2
+000002317C9EC05D | Standalone Outfit 3
+000002317C9EC061 | Naoe's Robes
+000002317C9EC065 | Yasuke's Outfit
+0000023A6EA02DC1 | Edward Kenway's Robes
+0000023C45D949ED | Edward Kenway's Robes
+00000211BAE754B4 | Underwater Outfit
+===== Armor =====
+0000021D3589F0F0 | Templar Armor
+===== Trinket =====
+000002317C952C90 | Mirror Back
+000002317C9EB808 | Abyssal Pendant
+000002317C9EB80C | Demon-Forged Pendant
+000002317C9EB810 | Fortunate Circle Charm
+000002317C9EB814 | Brass Bird Trinket
+000002317C9EB81C | Animus Trinket
+000002317C9EB824 | Standalone Trinket 3
+00000246813E70CD | Red Bull Trinket
+00000219449EBDC0 | Anchor Medallion
+00000219449EBE23 | Diamond Trinket
+00000219449EBE65 | Jackdaw Totem
+00000219449EBE86 | Templar Cross
+00000219449EBEA7 | Hidden Ones Sigil
+00000219449EBEC8 | Yax Tun Pendant
+00000219449EBEE9 | Hunter's Amulet
+00000219449EBF0A | Cross Pendant
+0000022D871E022F | Bloody Spanish Medal
+000002317C9EB818 | Blackbeard's Trinket
+00000240302A2CB8 | Merlion Trinket
+00000246813E773B | Visa Trinket
+00000219449EBC76 | Lock of Hair
+00000219449EBCB8 | Shark Teeth
+00000219449EBCD9 | Wooden Eyeball
+00000219449EBCFA | Small Bones
+00000219449EBD1B | Lodestone
+00000219449EBD3C | Folded Palm
+00000219449EBD5D | Gold Earring
+00000219449EBD7E | Small Goblet
+00000219449EBD9F | Narwhal's Horn
+00000219449EBDE1 | Exotic Sea Shells
+00000219449EBE02 | Black Pearl
+00000219449EBE44 | Rabbit's Foot
+===== Pet =====
+0000021F370C1747 | Cat
+0000021F370C1C4F | Monkey
+000002317C9DD529 | Sea Monkey (Sea Serpent Monkey)
+000002317C9DD547 | Warrior Monkey (Asian Monkey)
+000002317C9DD54B | Animus Monkey
+000002317C9DD54F | Pirate Monkey
+000002317C9DD5FF | Ashes (Fire Cat)
+000002317C9DD603 | Gold Tom (Master Assassin Cat)
+000002317C9DD607 | Standalone Cat
+===== Ship Cosmetic =====
+000002156C6E74CA | The Jackdaw's Wheel
+00000216ED016EBE | Blue Wheel
+00000218FC9346E8 | The Jackdaw's Figurehead
+0000021C83723153 | White Sails
+0000021C8372390F | Black Skull Sails
+00000220F056C25D | Death Vessel Figurehead
+00000220F056C264 | Jackdaw Hull
+00000220F056C26B | Alternate Hull
+00000222F92E1E72 | Unlocked Diving Bell
+00000222F92E99E8 | Locked Diving Bell
+000002317C9530D7 | Queen Anne's Revenge
+000002317C9530DB | The Eldorado
+000002317C9530DF | Spanish Gunboat
+000002317C9530E3 | Spanish Schooner
+000002317C9530E7 | Spanish Brig
+000002317C9530EB | Spanish Frigate
+000002317C9530EF | Spanish Man o' War
+000002317C9530F3 | English Gunboat
+000002317C9530F7 | English Schooner
+000002317C9530FB | English Brig
+000002317C9530FF | English Frigate
+000002317C953103 | English Man o' War
+000002317C953107 | El Impoluto
+000002317C95310B | HMS Prince
+000002317C95310F | La Dama Negra
+000002317C953113 | Brothers in Arms
+000002317C95311B | Ipswich
+000002317C997614 | Serpent Figurehead Design Plan
+000002317C9D0C01 | The Queen Anne's Figurehead Design Plan
+000002317C9D0CA2 | Flower Sails Design Plan
+000002317C9D0CC0 | Grey Sails Design Plan
+000002317C9DD6C1 | Animus Figurehead
+000002317C9DD6C5 | Aries Figurehead
+000002317C9DD6C9 | Phoenix Figurehead
+000002317C9DD6CD | Mermaid Figurehead
+000002317C9DD6D1 | Gargoyle Figurehead
+000002317C9DD6D5 | Serpent Figurehead
+000002317C9DD6D9 | Queen Anne Figurehead
+000002317C9DD6DD | Ranger Figurehead
+000002317C9DD6E1 | Royal Fortune Figurehead
+000002317C9DD6E9 | Aquila Figurehead
+000002317C9DD6ED | Elite Figurehead
+000002317C9DD6F1 | Standalone Figurehead
+000002317C9DD6F5 | Kraken Figurehead
+000002317C9DD6F9 | Altair Figurehead
+000002317C9DD6FD | Ezio Figurehead
+000002317C9DD701 | Aveline Figurehead
+000002317C9DD709 | Revenge Figurehead
+000002317C9DD711 | New Figurehead
+000002317C9DD715 | HMS Prince Figurehead
+000002317C9DD719 | La Dama Negra Figurehead
+000002317C9DD71D | HMS Fearless Figurehead
+000002317C9DD721 | El Impoluto Figurehead
+000002317C9DD725 | Ipswich Figurehead
+000002317C9DD729 | Leviathan Figurehead (Sea Serpent Figurehead)
+000002317C9DD72D | Fallen Angel Figurehead (Fire Figurehead)
+000002317C9DD731 | Storm Spirit Figurehead (Asian Figurehead)
+000002317C9DD735 | Bold-as-Gold Figurehead (Master Assassin Figurehead)
+000002317C9DDAB7 | Animus Hull
+000002317C9DDABB | New Hull 1
+000002317C9DDABF | New Hull 2
+000002317C9DDAC3 | Ultimate Hull
+000002317C9DDAC7 | HMS Prince Hull
+000002317C9DDACB | La Dama Negra Hull
+000002317C9DDACF | HMS Fearless Hull
+000002317C9DDAD3 | El Impoluto Hull
+000002317C9DDAD7 | Ipswich Hull
+000002317C9DDADB | Kraken's Scale Hull (Sea Serpent Hull)
+000002317C9DDADF | Infernal Majesty's Hull (Fire Hull)
+000002317C9DDAE3 | Jade Envoy Hull (Asian Hull)
+000002317C9DDAE7 | Buried Treasure Hull (Master Assassin Hull)
+000002317C9DE289 | Animus Wheel
+000002317C9DE28D | Bronze Wheel
+000002317C9DE299 | Eye of the Sea Wheel
+000002317C9DE2A1 | The Aquila's Wheel
+000002317C9DE2A9 | Gilded Wheel
+000002317C9DE2AD | Queen Anne's Revenge Wheel
+000002317C9DE2B1 | Elite Wheel
+000002317C9DE2B5 | Silver Wheel
+000002317C9DE2BD | Kraken Wheel
+000002317C9DE2C1 | Ivory Wheel
+000002317C9DE2C5 | New Wheel
+000002317C9DE2DD | Snakehead Wheel (Sea Serpent Wheel)
+000002317C9DE2E1 | Ring of Fire Wheel (Fire Wheel)
+000002317C9DE2E5 | Turn of Fate Wheel (Asian Wheel)
+000002317C9DE2E9 | Wheel of Doom (Master Assassin Wheel)
+000002317C9DE7B7 | Standalone Sails 5
+000002317C9DE7BB | Crimson Sails
+000002317C9DE7BF | Red Striped Sails
+000002317C9DE7C3 | Tattered Sails
+000002317C9DE7C7 | Leather Sails
+000002317C9DE7CB | Flower Sails
+000002317C9DE7CF | Grey Sails
+000002317C9DE7D7 | Diamond Sails
+000002317C9DE7DB | Gilded Sails
+000002317C9DE7DF | Elite Sails
+000002317C9DE7E3 | Royal Fortune Sails
+000002317C9DE7E7 | QAR Sails
+000002317C9DE7EB | Aquila Sails
+000002317C9DE7EF | Benjamin Sails
+000002317C9DE7F3 | Death Vessel Sails
+000002317C9DE7F7 | Kraken Sails
+000002317C9DE7FB | Altair Sails
+000002317C9DE7FF | Ezio Sails
+000002317C9DE803 | Black Ship Sails
+000002317C9DE807 | Revenge Sails
+000002317C9DE80B | Split Blood Sails
+000002317C9DE80F | Standalone Sails 6
+000002317C9DE813 | New Sails
+000002317C9DE817 | Ultimate Sails
+000002317C9DE81B | HMS Prince Sails
+000002317C9DE81F | La Dama Negra Sails
+000002317C9DE823 | HMS Fearless Sails
+000002317C9DE827 | El Impoluto Sails
+000002317C9DE82B | Ipswich Sails
+000002317C9DE82F | Ocean's Fury Sails (Sea Serpent Sails)
+000002317C9DE833 | Wind Demon Sails (Fire Sails)
+000002317C9DE837 | Vermillion Seal Sails (Asian Sails)
+000002317C9DE83B | Ebon Wind Sails (Master Assassin Sails)
+000002317C9DE83F | Animus Sails
+000002317C9DE843 | Standalone Sails 2
+000002317C9DE847 | Standalone Sails 3
+000002317C9DE84B | Standalone Sails 4
+000002317C9DEF04 | Sea Venom Crew Attire (Sea Serpent Crew Costume)
+000002317C9DEF08 | Devil's Deckhands Crew Attire (Fire Crew Costume)
+000002317C9DEF0C | Pacific Pirate Crew Attire (Asian Crew Costume)
+000002317C9DEF10 | Black & Gold Crew Attire (Master Assassin Crew Costume)
+00000240302A74AE | OBD_Plan_Design_Figurehead_Merlion
+00000240302A74FD | OBD_ShipVanity_Figurehead_33_Merlion
+00000246813EA12F | Red Bull Sails
+0000025741475814 | Elite Sails Design Plan
+000002317C9DE2C9 | HMS Prince Wheel
+000002317C9DE2CD | La Dama Negra Wheel
+000002317C9DE2D1 | HMS Fearless Wheel
+000002317C9DE2D9 | Ipswich Wheel
+===== Material/Resource =====
+000001F3B3F9BE33 | Cloth
+000001F3B3F9CA2D | Metal
+000001F3B3F9CA35 | Wood
+000001F3B3F9CA76 | Sugar
+000001F3B3F9CA82 | Cocoa
+000001F3B3F9CA8A | Aloe
+000001F3B3F9CA92 | Rice
+000001F3B3F9CA9A | Tobacco
+000001F3B3F9CAA2 | Wine
+000001F3B3F9CAAA | Rum Barrel
+000001F3B3F9CAB2 | Spice
+000001F3B3F9CB9F | Hammerhead Shark Bone
+000001F3B3F9CBA7 | Rabbit Pelt
+000001F3B3F9CBAF | Bone
+000001F3B3F9CBB7 | Capuchin Monkey Pelt
+000001F3B3F9CBBF | Iguana Leather
+000001F3B3F9CBC7 | Hutia Hide
+000001F3B3F9CBCF | Deer Hide
+000001F3B3F9CBD7 | Ocelot Pelt
+000001F3B3F9CBDF | Wild Pig Hide
+000001F3B3F9CBE7 | Howler Monkey Skin
+000001F3B3F9CBEF | Jaguar Pelt
+000001F3B3F9CBF7 | Black Jaguar Pelt
+000001F3B3F9CBFF | Crocodile Leather
+000001F3B3F9CC07 | White Jaguar Pelt
+000001F3B3F9CC0F | Red Howler Monkey Skin
+000001F3B3F9CC17 | Great White Shark Bone
+000001F3B3F9CC1F | Bull Shark Skin
+000001F3B3F9CC27 | Killer Whale Skin
+000001F3B3F9CC2F | Humpback Whale Skin
+000001F3B3F9CC37 | White Whale Skin
+000002054779087E | Leather (crafting material)
+0000020547790E08 | Cloth Rolls (crafting material)
+0000020547790E10 | Wood (crafting material)
+0000020547790E18 | Metal (crafting material)
+0000020547790E20 | Ore (crafting material)
+0000020547790E28 | Coal (crafting material)
+0000020547790E30 | Gold Nugget (crafting material)
+0000020A0452C90E | Bullet
+0000021F3877E728 | Resource - Crafting - Silk
+00000225969F0ACE | Olive Oil
+000002317C952C54 | Baroque Guitar
+000002317C952C58 | Beaver Pelt
+000002317C952CAC | Vanitas Still-life
+000002317C952CB0 | Violoncello
+===== Consumable =====
+000001F538427405 | Ration
+0000020640F19950 | Health Kit
+000002317C952C78 | Goa Stone Container
+000002317C952CB8 | Wooden Term Statue of St. Adrian
+000002317C952CBC | Wooden Term Statue of St. Livertin
+0000023734C00566 | Smoke Bomb
+===== Currency =====
+0000001BFDB9F655 | Mon (AC Shadows crossover currency)
+00000212F76C6DEE | Reales
+00000216097EAB64 | Data Fragments
+00000219449EBC97 | Found Coin
+00000242270D23EA | Keys
+===== Treasure Map =====
+00000212F766BF76 | "Magellan's Ship"
+00000212F766BFBC | "World Map" (1570)
+00000212F766BFC3 | Columbus Map
+00000219449E578C | Abaco Island Treasure Map
+00000219449E57CA | Ambergris Key Treasure Map
+00000219449E57CE | Andreas Island Treasure Map
+00000219449E57D6 | Cape Bonavista Treasure Map
+00000219449E57DA | Cayman Sound Treasure Map
+00000219449E57DE | Corozal Treasure Map
+00000219449E57E2 | Cumberlan Bay Treasure Map
+00000219449E57EA | Havana Treasure Map
+00000219449E57EE | Anotto Bay Treasure Map
+00000219449E57F2 | Great Inagua Treasure Map
+00000219449E57F6 | Isla Providencia Treasure Map
+00000219449E57FA | "Great Reputation II" Treasure Map
+00000219449E57FE | "The Empty Cellar" Treasure Map
+00000219449E5902 | "Scarlatina" Treasure Map
+00000219449E5906 | Mariguana Island Treasure Map
+00000219449E590A | Misteriosa Treasure Map
+00000219449E590E | Petite Cavern Treasure Map
+00000219449E5912 | Pino Isle Treasure Map
+00000219449E5916 | Salt Lagoon Treasure Map
+00000219449E591A | Santanillas Treasure Map
+00000219449E5CA8 | Ile a Vache Treasure Map
+00000219449E5D5E | Tortuga Treasure Map
+0000022D1ABD2264 | Treasure Map
+0000022D1ABD2272 | Blackbeard's Treasure Map
+000002317C94EE17 | Tattered Map Piece
+000002317C94F04D | Digested Map Piece
+000002317C94F5C0 | Preserved Map Piece
+000002317C94F5C7 | Weathered Map Piece
+000002317C94F5CE | Yellowed Map Piece
+000002317C94F5D5 | Restored Tattered Map
+000002317C94F820 | Restored Digested Map
+000002317C94F8AC | Restored Preserved Map
+000002317C94F8B3 | Restored Weathered Map
+000002317C94F8BA | Restored Yellowed Map
+000002317C952C8C | Map of the World
+00000237C131B466 | Ground Gym Treasure Map
+0000023FC78E007A | Map Of Shipwreck
+===== Collectible =====
+00000219449F0EE4 | Mayan Stone
+000001F3B3F9D440 | "Running Down To Cuba"
+000001F3B3F9D6EC | "Billy Riley"
+000001F3B3F9D6F3 | "Bully In The Ally"
+000001F3B3F9D6FA | "Spanish Ladies"
+000001F3B3F9D701 | "The Coasts of High Barbary"
+000001F3B3F9D708 | "Dead Horse"
+000001F3B3F9D70F | "Darby Ram"
+000001F3B3F9D716 | "Randy Dandy-O"
+000001F3B3F9D71D | "Leave Her, Johnny"
+000001F3B3F9D724 | "Drunken Sailor"
+000001F3B3F9D72B | "Paddy Doyle's Boots"
+000001F3B3F9D732 | "Cheerly Man"
+000001F3B3F9D739 | "Good Morning Ladies All"
+000001F3B3F9D740 | "Roll And Go"
+000001F3B3F9D747 | "Hi-ho Come Roll Me Over"
+000001F3B3F9D74E | "The Sailboat Malarkey"
+000001F3B3F9D755 | "Handy Me Boys"
+000001F3B3F9D75C | "Stormalong John"
+000001F3B3F9D763 | "So Early In The Morning"
+000001F3B3F9D76A | "Whiskey Johnny"
+000001F3B3F9D771 | "Wild Goose"
+000001F3B3F9D778 | "Fish In The Sea"
+000001F3B3F9D77F | "Captain Kidd"
+000001F3B3F9D786 | "The Rio Grande"
+00000212F76629E7 | "Aberdeen Bestiary" (Phoenix Detail)
+00000212F766BAA0 | "Atalanta Fugiens"
+00000212F766BF53 | "Cortez and La Malinche" from The History of Tlaxcala
+00000212F766BF5A | "Cr
+00000212F766BF61 | "De Gama Diary Extract"
+00000212F766BF68 | "Epistola de Magnete"
+00000212F766BF6F | "Introductio Geographica"
+00000212F766BF7D | "Sacred Theory of the Earth"
+00000212F766BF84 | "Solaris" from "Mundus Subterraneus"
+00000212F766BF8B | "Tabulae Rudolphinae"
+00000212F766BF92 | "The Fetus In The Womb"
+00000212F766BF99 | "Vertumnus, a Portrait of Today"
+00000212F766BFA0 | "Voynich Manuscript" - Folio 33v
+00000212F766BFA7 | "Voynich Manuscript" - Folio 34r
+00000212F766BFAE | "Voynich Manuscript" - Folio 34v
+00000212F766BFB5 | "Voynich Manuscript" - Folio 35r
+00000212F766BFCA | Mayan "Dresden" Codex
+00000213F8492DC3 | Glass Cube
+00000215C55BE094 | Gold Locket
+00000219449EB852 | "On My Name and Origin"
+00000219449EB872 | "Earlie Opinions of My Condition"
+00000219449EB892 | "On the Place of My Birthe"
+00000219449EB8B2 | "My First Reverie"
+00000219449EB8D2 | "My Deepening Predicament"
+00000219449EB8F2 | "My Apprenticeship"
+00000219449EBA12 | "On Leaving Home"
+00000219449EBA32 | "What the Voices Saide"
+00000219449EBA52 | "A Curiouse Incident At Sea"
+00000219449EBA72 | "Finding Stedey Work"
+00000219449EBA92 | "Peter Beckford the Elder"
+00000219449EBAB2 | "The Templar Arrives"
+00000219449EBAD2 | "Another Fryghtful Reverie"
+00000219449EBAF2 | "The Assassyn"
+00000219449EBB12 | "Reste and Repaste"
+00000219449EBB32 | "The Observatorie"
+00000219449EBB52 | "Taking My Leave"
+00000219449EBB72 | "My Searche"
+00000219449EBB92 | "On Being a Sage"
+00000219449EBBB2 | "A Secret Incomprehensible"
+0000022294ED438B | Julien De Casse's Portrait
+0000022294ED879C | Commodore Chamberlain's Portrait
+0000022294ED9147 | Laurens Prins' Portrait
+0000022294ED9421 | Bartolomew Roberts' Portrait
+0000022294ED96FB | Laureano de Torres' Portrait
+0000022294ED99D5 | Ben Hornigold's Portrait
+0000022294ED9CAF | Stede Bonnet's Portrait
+0000022294ED9F89 | El Tiburon's Portrait
+0000022294EDA263 | Woodes Rogers' Portrait
+0000022294EDA53D | Blackbeard's Portrait
+0000022294EDA817 | Robert Maynard's Portrait
+0000022D1ABDE421 | "Home Across the Sea"
+0000022D1ABDE428 | "Maid of Amsterdam"
+000002317C952BD6 | Earth Monster Relief
+000002317C952BDA | Taino Bust
+000002317C952BDE | Bust of a Water Deity
+000002317C952C30 | Jar with Ritual Scene
+000002317C952C34 | Maize Deity
+000002317C952C38 | Pectoral Disk
+000002317C952C3C | Pedestal Bowl
+000002317C952C40 | Seated Zemi Figure
+000002317C952C44 | Standard Bearer
+000002317C952C48 | Tripod Vessel with Date Glyph
+000002317C952C4C | Triptych
+000002317C952C50 | Vulture Vessel
+000002317C952C5C | Bracelet
+000002317C952C60 | Cabinet
+000002317C952C64 | Chalice
+000002317C952C68 | Clock
+000002317C952C6C | Commode
+000002317C952C70 | Turkish Copper Field Flask
+000002317C952C74 | Drum
+000002317C952C7C | Head of an Oba
+000002317C952C80 | Jar with Four Faces
+000002317C952C84 | Joined Armchair with Cushion
+000002317C952C88 | Kast Cupboard
+000002317C952C94 | Oboe
+000002317C952C98 | Parade Helmet a l'Antique
+000002317C952C9C | Scherer's 1700 Globe
+000002317C952CA4 | Silver Two-handed Bowl
+000002317C952CA8 | Trumpet
+000002317C952CB4 | Whydah Gally style Bell
+000002317C952CC0 | Yoke-Form Vessel
+000002317C953317 | "An English Ship in Action with Barbary Vessels"
+000002317C95331B | "Saint Jerome as Cardinal"
+000002317C95331F | "The Burning of the 'Royal James' at the Battle of Solebay"
+000002317C953323 | "The Flight into Egypt"
+000002317C9B48A8 | Marooned
+000002317C9DE291 | Flower Wheel
+000002317C9DE2D5 | El Impoluto's Wheel
+00000240302A214D | Framed Paintings
+00000240302A754C | Song Sheet: Light Upon River
+000002438B6262AA | Song Sheet: The Last Voyage Of Stede Bonnet
+000002438B6262B2 | Song Sheet: ALong Time Ago
+000002438B6262BA | Song Sheet: Blow The Man Down
+000002438B6262C2 | Song Sheet: Reuben Ranzo
+000002438B6262CA | Song Sheet: The Wellerman
+000002438B6262D2 | Song Sheet: Paddy Layback
+000002438B6262DA | Song Sheet: Dont Forget Your Old Shipmate
+000002438B62D7D9 | Song Sheet: Burn Blackbeards Beard
+000002317C939897 | Nasso Senhor da Compreensao
+000002317C9398A5 | Bat-Nosed Figurine
+000002317C939BA8 | Deity Figurine
+000002317C939BAF | Eagle Figurine
+000002317C939D18 | Harbor Scene at Sunset
+000002317C939D1F | Merry Company
+000002317C939D26 | Nymphs by a Fountain
+===== Officer =====
+0000022D208152A6 | Quartermaster Officer Adewale
+0000022D208152AD | Quartermaster Officer Anne Bonny
+0000022D208152B4 | Master Gunner Officer Deadman Flint
+0000022D208152BB | Master-At-Arms Officer The Padre
+0000022D208152C2 | Shipwright Officer Lucy Baldwin
+0000022D208206DE | Master-At-Arms Officer Locked
+0000022D208206E5 | Master Gunner Officer Locked
+0000022D208206EC | Quartermaster Officer Locked
+0000022D208206F3 | Shipwright Officer Locked
+===== Key/Quest =====
+00000215C55C3131 | Templar Key
+00000207AE399D06 | Warehouse Key  [CRASH]
+0000020E6F26FF7D | Smuggler's Chest Key  [CRASH]
+0000020E6F270216 | Warehouse Key  [CRASH]
+00000213B28FBB30 | The Jackdaw
+00000213F8445BBC | Castillo Key
+000002189EEDF4F0 | SQ02_M50_ClaimingWhatsDue
+00000220AC78B5F3 | Warehouse Key  [CRASH]
+00000220AC7914C2 | Warehouse Key  [CRASH]
+00000220FF566967 | Warehouse Key  [CRASH]
+0000022372764388 | Warehouse Key  [CRASH]
+000002237276F9C1 | Warehouse Key  [CRASH]
+00000224208266A7 | OBD_SQ07_M30_Letter_ChamberlainOfficer
+00000224BA3E127E | Mendoza's Orders
+00000224C53536B7 | Warehouse Key  [CRASH]
+0000022530C1251B | OBD_SID_M20_QuestItem_StedeKey
+0000022530C1723C | SID_M20_QuestItem_StedesFirstLetter
+0000022530C177D7 | OBD_SID_M20_QuestItem_StedeFinalLetter
+00000225BBE53693 | OBD_AVT02_M20_QuestItem_PickpocketMap
+0000022647DDF675 | OBD_OF03_M20_QuestItem_PrisonerNote
+0000022647DE0F8B | Letter from Maynard
+000002264AEDF8EE | Warehouse Key  [CRASH]
+00000226D2C8E82C | Preparations for the Armada
+00000226D6C7A6C5 | OBD_SQ02_M10_QuestItem_StedesMoneyPurse
+00000227204D28BD | OF01_M10_QuestItem_LucyWantedPoster
+00000227204D3971 | OF01_M20_QuestItem_Will
+00000227204E528F | Barrister's Letter
+00000227204E61DE | OBD_OF01_M40_QuestItem_DearLucy
+0000022735A94FD8 | Dev Note
+0000022735A9557C | Sealed Letters (quest)
+0000022751EC9A7E | OBD_SQ3_M35_QuestItem_CargoManifest
+00000227AD6B2A68 | Alvins Orders
+00000227F9C131F4 | Smuggler's Chest Key  [CRASH]
+00000227F9C1C2E9 | Smuggler's Chest Key  [CRASH]
+00000227F9C1C5FA | Smuggler's Chest Key  [CRASH]
+00000227F9C1C617 | Smuggler's Chest Key  [CRASH]
+00000227F9C1C634 | Smuggler's Chest Key  [CRASH]
+00000228CFD632BF | Warehouse Key  [CRASH]
+0000022B602E8D4A | Commander Kenneth Abraham Requests Your Presence
+0000022EACFCE001 | OBD_CITY_602_Kingston_ME03_QuestItem_HuntersChestKey
+0000022FC044E10E | OBD_OF02_M30_QuestItem_InvitationLetter
+0000023252EA53D2 | OBD_SQ02_M10_QuestItem_StedesMoneyPurseHalf
+00000238F4046983 | OBD_SID_M20_QuestItem_StedesDagger
+000002398AFABEA0 | Notice of Dismissal
+000002398BBCD348 | OBD_SQ05_M20_QuestItem_LetterFromPlantation
+000002398BBCD367 | OBD_SQ05_M20_QuestItem_SlaveAuctionNotice
+000002398CEEAA4B | OBD_SQ03_M35_QuestItem_BeckfordBirthdayAnnouncement
+00000239A6F29FAD | OBD_SQ11_M10_QuestItem_PrisonKeys
+0000023B86CC78B1 | OBD_SQ02_M30_QuestItem_TemplarRing
+0000023B86CC78CF | OBD_SQ02_M30_QuestItem_CuriousSchematic
+0000023F14D06444 | OBD_SQ12_M20_QuestItem_Crystal Skull
+0000023F4AD8E140 | OBD_SQ05_M20_QuestItem_PrinsLedger
+00000240302A3C2D | OBD_Quest_SQ06_M20_Medicines
+00000243BC1AEB69 | Jing Lang's Note
+00000249D08AD84D | OBD_SID_M20_QuestItem_StedeDiary
+0000025754D74BE3 | Ultimate Outfit (unlock token)
+0000025754D75E0E | Haytham Kenway's Overcoat (unlock token)
+0000025754D75E16 | Outfit unlock token (orphan)
+0000025754D7616A | Merchant Outfit (unlock token)
+0000025754D76172 | Pirate Cloak (unlock token)
+0000025754D7666C | Pirate Captain Outfit (unlock token)
+0000025754D7681A | Naoe's Robes (unlock token)
+0000025754D76D14 | Officer's Outfit (unlock token)
+0000025754D77068 | Outfit unlock token (orphan)
+0000025754D77070 | Politician's Outfit (unlock token)
+0000025754D7721E | Asian Outfit (unlock token)
+0000025754D7722E | Sea Serpent Outfit (unlock token)
+0000025754D77236 | Privateer Outfit (unlock token)
+0000025754D7723E | Altair Ibn-La'Ahad's Robes (unlock token)
+0000025754D77246 | Governer's Outfit (unlock token)
+0000025754D773F4 | Connor's Outfit (unlock token)
+0000025754D773FC | Brown Cloak (unlock token)
+0000025754D775AA | New Outfit (unlock token)
+0000025754D778FE | Feline Pelt Outfit (unlock token)
+0000025754D77C52 | Explorer Outfit (unlock token)
+0000025754D77E00 | Ezio Auditore's Robes (unlock token)
+0000025754D77E08 | Crimson Cloak (unlock token)
+0000025754D77E10 | Hunter Outfit (unlock token)
+0000025754D77E18 | Master Assassin Outfit (unlock token)
+0000025754D77E20 | Stealth Outfit (unlock token)
+0000025754D77E28 | Animus Outfit (unlock token)
+0000025754D7AFB2 | Standalone Outfit 3 (unlock token)
+===== Dev Items =====
+00000201ED744D5F | Officer Smallsword
+0000021149B796A7 | Spanish Officer Pistols
+0000021149B796BF | Common Flintlock Pistols
+0000021149B796CB | Common Flintlock Pistols
+0000023EB76C1907 | Jackdaw default equipment (internal)
+0000024A7D2E83F7 | Jackdaw default equipment (internal)
+00000211BAE78150 | Edward Kenway's Robes
+0000025859E8487F | Walpole outfit
+000002053FF1E499 | Bullet
+00000207615AEFED | Smoke Bomb
+0000022D1ABE3072 | "Home Across the Sea"
+0000022D1ABE307A | "Home Across the Sea"
+0000022D1ABE3082 | "Home Across the Sea"
+0000022D1ABE308A | "Home Across the Sea"
+0000022D1ABE3092 | "Home Across the Sea"
+0000022D1ABE309A | "Home Across the Sea"
+0000022D1ABE30A2 | "Home Across the Sea"
+0000022D1ABE30AA | "Home Across the Sea"
+0000022D1ABE30B2 | "Home Across the Sea"
+0000022D1ABE30BA | "Home Across the Sea"
+00000043E344147B | Arrow
+000001AF1C8B93B9 | Hidden Blade  [CRASH]
+00000217831B6EC0 | Sleep Dart
+00000217831B6EC8 | Berserk Dart
+00000219449D57A0 | Heavy Shot Ammo
+0000024C29A3239D | Hidden Blade
+000002317C925D7E | Jackdaw Hideout Model
+000002317C93989E | Jackdaw Hideout Model
+00000240302A3713 | Placeholder Painting
+00000240302A3717 | Placeholder Painting
